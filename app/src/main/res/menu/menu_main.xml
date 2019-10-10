@@ -1,0 +1,10 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.sunil.architecturecomponentkotlin.view.MainActivity">
+    <item
+        android:id="@+id/action_clear_list"
+        android:orderInCategory="100"
+        android:title="@string/action_clear_list"
+        app:showAsAction="never" />
+</menu>
